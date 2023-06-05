@@ -1,0 +1,4 @@
+-- COALESCE
+-- Se usa principalmente en tablas donde existen valores nulos y se requieren hacer operaciones
+-- matemáticas. Para ello usamos esta función, con el fin de poder realizarlas sin tener que modificar 
+-- las tablas. 
